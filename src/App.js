@@ -39,7 +39,6 @@ function TipCalculator() {
           <Reset onReset={handleReset} />
         </>
       )}
-      c
     </div>
   );
 }
